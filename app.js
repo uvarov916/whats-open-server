@@ -32,8 +32,8 @@ var locationInfoTemplate = {
     "location_id": "basho-express",
     "version_number": 0,
     "location_name": "Basho Express",
-    "image_url": "http://www.bu.edu/dining/files/2016/01/bashostaff.jpg",
-    "menu_url": "http://www.bu.edu/nisprod/dining/data/menus/bashoexpress.pdf",
+    "image_url": "https://www.bu.edu/dining/files/2016/01/bashostaff.jpg",
+    "menu_url": "https://www.bu.edu/nisprod/dining/data/menus/bashoexpress.pdf",
     "type_of_location": "retail",
     "contact_info": {
         "person_name": "",
