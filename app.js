@@ -3,7 +3,7 @@
 var Hapi = require('hapi');
 
 // Setting up server
-var server = new Hapi.Server(+process.env.PORT, '0.0.0.0');
+var server = new Hapi.Server(~~process.env.PORT || 3000, '0.0.0.0');
 
 
 // ------------------------------
